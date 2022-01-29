@@ -1,5 +1,5 @@
-# workshop-spring-boot-mongodb
-# É um projeto desenvolvido no curso Java completo do professor Nelio Alves.
+# Workshop Spring Boot Mongodb
+## É um projeto desenvolvido no curso Java completo do professor Nelio Alves.
 Composto por uma API Restfull usando a linguagem Java e o framework Spring Boot, usando padrão de projetos, SOLID, DTO e banco de dados MongoDB. 
 Contém a inserção, deleção, atualização e consulta de um ou vários itens sendo usuários, posts e comentários dos posts. 
 OBS. É possível acompanhar a evolução do projeto a partir de cada commit realizado.
@@ -25,6 +25,6 @@ Buscando usuários
 ![Captura de tela 2022-01-22 185706](https://user-images.githubusercontent.com/87396979/150656799-1c9dd739-95ae-41df-9113-0cee2b9c9ab0.png)
 
 
-Consulta com @Query, buscando um post pelo Título ou conteúdo e filtrando pela data minima e máxima. Busca desenvolvida utilizando expressão regular.
+Consulta com @Query, buscando um post pelo Título ou conteúdo e filtrando pela data mínima e máxima. Busca desenvolvida utilizando expressão regular.
 
 ![Captura de tela 2022-01-22 190239](https://user-images.githubusercontent.com/87396979/150656855-c7a3dc9a-9c59-4449-a181-57de754aede6.png)
